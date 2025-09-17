@@ -39,18 +39,31 @@ Admins can approve/reject users and ads through a dedicated dashboard.
 Advertisement-Management-System-ASP.NET/
 │
 ├── App_Code/                  # Utility classes, DB connection
+
 ├── App_Data/                  # SQL scripts or local DB if used
+
 ├── Models/                    # C# Classes (User, Ads)
+
 ├── Pages/                     # ASPX pages (Login, Register, AddAds, AdminDashboard)
+
 │   ├── Login.aspx
+
 │   ├── Register.aspx
+
 │   ├── AddAds.aspx
+
 │   ├── AdminDashboard.aspx
+
 │   └── MasterPage.master      # Common layout
+
 ├── Scripts/                   # JS, jQuery, Bootstrap
+
 ├── Styles/                    # CSS
+
 ├── Web.config                 # App configuration
+
 ├── README.md
+
 └── LICENSE
 
 # 📂Project Structure  
